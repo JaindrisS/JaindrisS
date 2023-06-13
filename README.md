@@ -1,5 +1,5 @@
-<h1 align="center">Hola 👋, soy Jaindris</h1>
-<h3 align="center">Desarrollador backend autodidacta</h3>
+<h1 align="center">Hi 👋🏻, I'm Jaindris</h1>
+<h3 align="center">A passionate backend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaindriss&label=Profile%20views&color=0e75b6&style=flat" alt="jaindriss" /> </p>
 
